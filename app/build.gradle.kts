@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.example.semana_9_gps"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.semana_9_gps"
-        minSdk = 26
-        targetSdk = 33
+        minSdk = 27
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
